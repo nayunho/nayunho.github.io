@@ -39,21 +39,22 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me! (Use this to override about section title)
+# about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/KakaoTalk_20220922_170156014.jpg)
 about_content: | # this will include new lines to allow paragraphs
     - 대학교: [한림대학교]("https://www.hallym.ac.kr/")
     - 소속: 소프트웨어 융합대학
     - 전공: 스마트 IOT
-    - 학력사항  
-    2014~2016=>판곡중학교  => 졸업
-    2016~2018=>호평고등학교=> 졸업
-    2018~    =>한림대학교  => 재학
-content:
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-
+    - 학력사항:  
+    2014~2016=>판곡중학교  => 졸업  
+    2016~2018=>호평고등학교=> 졸업  
+    2018~    =>한림대학교  => 재학  
+    -취득 자격증:
+    
+    - MBTI:
+    나의 MBTI => ISTJ  
+    ISTJ 유형은 내성적이고 자기 이야기 보다는 다른사람
+    이야기를 듣는편이며 감정이 부족한 사람으로 오해를 받지만 항상 체계적인 계획을 세우면서 일을하고 미리 하려고 하는 것에 관한 많은 정보를  얻으려고한다.
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
