@@ -38,11 +38,11 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me! (Use this to override about section title)
+# about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/KakaoTalk_20220922_170156014.jpg)
 about_content: | # this will include new lines to allow paragraphs
     -대학교: [한림대학교][hallym]  
-    -소속:소프트웨어 융합대학  
+    -소속: 소프트웨어 융합대학  
     -전공: 스마트 IOT  
 content:
   - title: A Little More About Me
