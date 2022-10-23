@@ -43,14 +43,9 @@ additional_links:
 # about_title: About Me! (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/KakaoTalk_20220922_170156014.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
-
+    -#### 대학교: [한림대학교][hallym]
+    -#### 소속:소프트웨어 융합대학
+    -#### 전공: 스마트 IOT
 content:
   - title: A Little More About Me
     layout: text
