@@ -41,6 +41,11 @@ additional_links:
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_content: | # this will include new lines to allow paragraphs
+    - 생년원일: 1999-09-28
+    - 현주소: 경기도 천마산로 65-2
+    - 취미/특기:  
+    취미=> 영화 보기 및 음악 듣기  
+    특기=> 상황 판단
     - 대학교: [한림대학교]("https://www.hallym.ac.kr/")
     - 소속: 소프트웨어 융합대학
     - 전공: 스마트 IOT
@@ -48,15 +53,16 @@ about_content: | # this will include new lines to allow paragraphs
     2014~2016=>판곡중학교  => 졸업  
     2016~2018=>호평고등학교=> 졸업  
     2018~    =>한림대학교  => 재학
-    - 취득 자격증: 정보 처리 기능사
+    - 취득 자격증:  
+    자격증: 정보 처리 기능사  
+    발급기간: Q-net  
+    증번호: 19652503047T
     - 프로그래밍 언어 스킬:  
     java  
     C  
     python
     - MBTI:
     나의 MBTI => ISTJ  
-    ISTJ 유형은 내성적이고 자기 이야기 보다는 다른사람
-    이야기를 듣는편이며 감정이 부족한 사람으로 오해를 받지만 항상 체계적인 계획을 세우면서 일을하고 미리 하려고 하는 것에 관한 많은 정보를  얻으려고한다.
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
