@@ -46,16 +46,15 @@ about_content: | # this will include new lines to allow paragraphs
     - 소속: 소프트웨어 융합대학
     - 전공: 스마트 IOT
     - 학력사항  
-    |기간|출신학교명|전공|졸업구분|
-    |:---:|:---:|:---:|:---:|
-    |2014~2016|판곡중학교||졸업|
-    |2016~2018|호평고등학교||졸업|
-    |2018~|한림대학교|스마트 IOT|재학|
+    2014~2016=>판곡중학교  => 졸업
+    2016~2018=>호평고등학교=> 졸업
+    2018~    =>한림대학교  => 재학
 content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-    
+    ISTJ: ISTJ 유형은 내성적이고 자기 이야기 보다는 다른사람
+    이야기를 듣는편이며 감정이 부족한 사람으로 오해를 받지만 항상 체계적인 계획을 세우면서 일을하고 미리 하려고 하는 것에 관한 많은 정보를  얻으려고한다.
 
 # Footer
 footer_show_references: true
