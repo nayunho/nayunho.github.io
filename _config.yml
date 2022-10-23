@@ -81,3 +81,5 @@ exclude : [
   "scripts/",
   "docker-compose.yml",
   ]
+  
+   [hallym]: https://www.hallym.ac.kr/
