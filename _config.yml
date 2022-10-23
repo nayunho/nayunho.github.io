@@ -42,7 +42,7 @@ additional_links:
 # about_title: About Me! (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/KakaoTalk_20220922_170156014.jpg)
 about_content: | # this will include new lines to allow paragraphs
-    - 대학교: [한림대학교][hallym]
+    - 대학교: [한림대학교]("https://www.hallym.ac.kr/")
     - 소속: 소프트웨어 융합대학
     - 전공: 스마트 IOT
 content:
@@ -78,5 +78,3 @@ exclude : [
   "scripts/",
   "docker-compose.yml",
   ]
-  
-   [hallym]: https://www.hallym.ac.kr/
