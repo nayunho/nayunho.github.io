@@ -7,12 +7,11 @@ version: 2
 
 # Personal info
 name: NA_YUN_HO
-title: Your job title
+title: README
 email: ring147@naver.com
 # email_title: Email (Email title override)
 phone: 010-8586-4484
 # phone_title: Phone (Phone title override)
-website: README
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -44,7 +43,7 @@ additional_links:
 about_profile_image: Directory of profile image (eg. images/KakaoTalk_20220922_170156014.jpg)
 about_content: | # this will include new lines to allow paragraphs
     - 대학교: [한림대학교][hallym]
-    - 소속:소프트웨어 융합대학
+    - 소속: 소프트웨어 융합대학
     - 전공: 스마트 IOT
 content:
   - title: A Little More About Me
