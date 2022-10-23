@@ -53,7 +53,8 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-    ISTJ: ISTJ 유형은 내성적이고 자기 이야기 보다는 다른사람
+    -ISTJ  
+    ISTJ 유형은 내성적이고 자기 이야기 보다는 다른사람
     이야기를 듣는편이며 감정이 부족한 사람으로 오해를 받지만 항상 체계적인 계획을 세우면서 일을하고 미리 하려고 하는 것에 관한 많은 정보를  얻으려고한다.
 
 # Footer
