@@ -62,9 +62,9 @@ content:
   - title: programming language skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-    java  
-    C  
-    python
+      java  
+      C  
+      python
   - title: MBTI
     layout: text
     content: | # this will include new lines to allow paragraphs
