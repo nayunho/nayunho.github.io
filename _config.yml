@@ -40,6 +40,7 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
+about_profile_image: Directory of profile image (eg. images/README.jpg)
 about_content: | # this will include new lines to allow paragraphs
     - 생년월일: 1999-09-28
     - 현주소: 경기도 천마산로 65-2
