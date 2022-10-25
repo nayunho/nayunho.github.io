@@ -55,7 +55,8 @@ about_content: | # this will include new lines to allow paragraphs
     
 content:
   - title: A Little More About Me
-    content: | # this will include new lines to allow paragraphs
+  layout: list
+  content:
     - 학력사항:  
     1. 2014~2016=>판곡중학교  => 졸업  
     2. 2016~2018=>호평고등학교=> 졸업  
