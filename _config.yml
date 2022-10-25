@@ -57,12 +57,14 @@ about_content: | # this will include new lines to allow paragraphs
     - 취득 자격증:  
     자격증: 정보 처리 기능사  
     발급기간: Q-net
-    - 프로그래밍 언어 스킬:  
-    java  
-    C  
-    python
     
 content:
+  - title: programming language skills
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+     *java  
+     *C  
+     *python
   - title: MBTI
     layout: text
     content: | # this will include new lines to allow paragraphs
