@@ -50,28 +50,28 @@ about_content: | # this will include new lines to allow paragraphs
     - 대학교: [한림대학교]("https://www.hallym.ac.kr/")
     - 소속: 정보 과학 대학
     - 전공: 스마트 IOT
-    - 학력사항:  
-    2014~2016=>판곡중학교  => 졸업  
-    2016~2018=>호평고등학교=> 졸업  
-    2018~    =>한림대학교  => 재학
-    - 취득 자격증:  
-    자격증: 정보 처리 기능사  
-    발급기간: Q-net
-    - 프로그래밍 언어 스킬:  
-    java  
-    C  
-    python
     - MBTI:
     나의 MBTI => ISTJ
     
 content:
- 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+    - 학력사항:  
+    1. 2014~2016=>판곡중학교  => 졸업  
+    2. 2016~2018=>호평고등학교=> 졸업  
+    3. 2018~    =>한림대학교  => 재학
+    - 취득 자격증:  
+    자격증: 정보 처리 기능사  
+    발급기간: Q-net
+    - 프로그래밍 언어 스킬:  
+    1. java  
+    2. C  
+    3. python
+  - title: MBTI
+    layout: text
+    content:
+      **ISTJ**
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
