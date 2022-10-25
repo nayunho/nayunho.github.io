@@ -68,10 +68,7 @@ content:
     1. java  
     2. C  
     3. python
-  - title: MBTI
-    layout: text
-    content:
-      **ISTJ**
+
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
