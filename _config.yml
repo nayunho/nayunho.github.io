@@ -66,7 +66,6 @@ content:
   - title: MBTI
     layout: text
     content: | # this will include new lines to allow paragraphs
-    <img src=/images/ISTJ.jpg width=100 height=100>
       ISTJ  
       주어진 업무나 책임을 끝까지 완료하고, 예고없이 갑작스러운 변화를 싫어합니다.
 
