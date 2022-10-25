@@ -67,7 +67,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       ISTJ  
-      주어진 업무나 책임을 끝까지 완료하고, 예고없이 갑작스러운 화를 싫어합니다.
+      주어진 업무나 책임을 끝까지 완료하고, 예고없이 갑작스러운 변화를 싫어합니다.
 
 # Footer
 footer_show_references: true
