@@ -62,9 +62,9 @@ content:
   - title: programming language skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-     *java  
-     *C  
-     *python
+     1. java       중  
+     2. C          중  
+     3. python     중
   - title: MBTI
     layout: text
     content: | # this will include new lines to allow paragraphs
